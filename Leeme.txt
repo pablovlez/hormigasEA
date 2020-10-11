@@ -1,0 +1,10 @@
+Integrantes
+Pablo Velez 
+Hernan Carvajal
+
+
+el proyecto esta en netbeans,
+el problema encontrado fue q el operador de cruce no estaba funcionando correctamente, 
+para hallar este error se hizo la prueba unitaria a este metodo de reproduccion, subiendo el porcentaje 
+de la mutacion se encontro q habia mas diversidad de individuos, este era el problema que teniamos
+no habia diversidad en nuestra poblacion.
